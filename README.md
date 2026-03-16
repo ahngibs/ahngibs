@@ -44,7 +44,7 @@ Node.js 기반 API 구조와 프론트엔드 분리 구조를 경험했습니다
 
 Classic ASP 기반 관리자 페이지 예제 프로젝트
 ➡ Repository  
-https://github.com/kibean/asp-admin-dashboard
+https://github.com/ahngibs/HR_asp_sample
 
 주요 기능
 
